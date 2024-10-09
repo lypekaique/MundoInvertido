@@ -17,6 +17,8 @@ criaremos uma landing page com a temática da série Stranger Things, a qual con
 | 🔥 Design       | [**Figma**](https://www.figma.com/design/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0-1&node-type=canvas&t=TZ38uOK5APGpXzhX-0)|
 | 🚀 URL          | [Link Do Site](https://extraordinary-maamoul-8de1f2.netlify.app/). |
 
+![](https://i.imgur.com/vjGHn7S.png)
+
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
