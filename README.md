@@ -15,13 +15,12 @@ criaremos uma landing page com a temática da série Stranger Things, a qual con
 | ✨ Nome         | **Dio** - Mundo Invertido |
 | 🏷️ Tecnologias  | Javascript, HTML5, CSS |
 | 🔥 Design       | [**Figma**](https://www.figma.com/design/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0-1&node-type=canvas&t=TZ38uOK5APGpXzhX-0)|
-<!--| 🚀 URL          | Ainda não disponível |-->
+| 🚀 URL          | [Link Do Site](https://github.com/lypekaique/Cursos/tree/main/Dio/Ri%20Happy%20-%20Front-end%20do%20Zero/Mundo%20invertido). |
 
 
 <div>
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/CSS2A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=BCC3CD"/>
 </div>
