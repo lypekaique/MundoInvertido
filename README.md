@@ -38,7 +38,7 @@ _English version_
 
 We will create a landing page with the theme of the Stranger Things series, which will include the implementation of a theme switcher (light and dark) to explore the mysteries of the inverted world.
 
-This project was developed during the event **#NLWtogether** hosted by [Rocketseat](https://www.rocketseat.com.br) with the help of the instructors [Diego Fernandes](https://github.com/diego3g) and [Rodrigo Gonçalves](https://github.com/rodrigorgtic).
+[Project Link](https://github.com/lypekaique/Cursos/tree/main/Dio/Ri%20Happy%20-%20Front-end%20do%20Zero/Mundo%20invertido).
 
 
 <a href='#top'>🔼 Back to top</a>
